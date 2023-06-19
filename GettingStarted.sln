@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GettingStarted", "GettingStarted.csproj", "{26EF1DE5-4990-41E6-A008-DAA1A4D185B0}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syncfusion.Maui.Expander", "..\..\AccordionVSM\maui-accordion\maui\src\expander\Syncfusion.Maui.Expander.csproj", "{572A784E-6E77-4BFC-8ADC-794A916F8B06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GettingStarted", "GettingStarted\GettingStarted.csproj", "{26EF1DE5-4990-41E6-A008-DAA1A4D185B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
