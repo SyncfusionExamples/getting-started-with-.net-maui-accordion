@@ -33,13 +33,13 @@ The Accordion provides the flexibility to customize the placement of the header 
 
 [Documentation](https://help.syncfusion.com/maui/accordion/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-accordion-github-samples)
 
-[View Demos](https://github.com/SyncfusionExamples/getting-started-with-.net-maui-accordion?utm_source=github&utm_medium=listing&utm_campaign=maui-accordion-github-samples)
+[View Demos](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Accordion/SampleBrowser.Maui.Accordion?utm_source=github&utm_medium=listing&utm_campaign=maui-accordion-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-accordion-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-accordion-github-samples)
 
-[Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Accordion/SampleBrowser.Maui.Accordion?utm_source=github&utm_medium=listing&utm_campaign=maui-accordion-github-samples)
+[Online example](https://github.com/SyncfusionExamples/getting-started-with-.net-maui-accordion?utm_source=github&utm_medium=listing&utm_campaign=maui-accordion-github-samples)
 
 ## About Syncfusion .NET MAUI Controls
 
